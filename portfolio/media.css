@@ -13,6 +13,12 @@
     height: 150vh;
     gap: px;
 }
+    .hero p{
+    margin-left: 10px;
+}
+.hero h1{
+    margin-left: 10px;
+}
 
 
 .heroimg{
@@ -26,6 +32,9 @@
     height: 250px;
     margin-top: 0px;
     
+}
+    .btn{
+    margin-left: 10px;
 }
 
 .about{
@@ -42,6 +51,9 @@
     width: 250px;
     height: 250px;
     
+}
+    .aboutwork p{
+    margin-left: 5px;
 }
 
 .skill{
