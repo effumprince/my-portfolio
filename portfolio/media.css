@@ -1,0 +1,60 @@
+@media screen and (max-width: 320px){
+
+    nav{
+        width:100%;
+        text-align: center;
+    }
+
+    nav ul li{
+        text-align: center;
+    }
+
+.content{
+    height: 150vh;
+    gap: px;
+}
+
+
+.heroimg{
+    width: 250px;
+    height: 250px;
+    margin-top: 0px;
+}
+
+.heroimg img{
+    width: 250px;
+    height: 250px;
+    margin-top: 0px;
+    
+}
+
+.about{
+    height: 150vh;
+}
+
+.abimg{
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+}
+
+.abimg img{
+    width: 250px;
+    height: 250px;
+    
+}
+
+.skill{
+    height: 220vh;
+}
+
+.serve{
+    flex-direction: column;
+}
+
+.services{
+    width: 90%;
+    margin-left: 10px;
+}
+
+}
